@@ -1,0 +1,1 @@
+﻿   <a href="yonetici.php">Yonetici Profil</a> || <a href="kitap_ekle.php">Kitap Ekle </a> || <a href="kitap_sil.php">Kitap Sil </a>  || <a href="uye_sil.php">Uye Sil </a> || <br />

@@ -1,0 +1,82 @@
+@charset "utf-8";
+body{
+	background-image:url(../img/zemin.jpg);
+	background-repeat:repeat;
+	}
+.disdiv {
+	border-radius:10px;
+	background-image:url(../img/zemin2.jpg);
+	background-repeat:repeat;
+	margin-left:auto;
+	margin-right:auto;
+	padding:10px;
+	width: 920px;
+	height:1050px;
+
+}
+
+.banner {
+	background-color:orange;
+	float: right;
+	height: 265px;
+	width: 920px;
+}
+#clear {
+	width: 920px;
+	clear: both;
+}
+.ustmenu {
+	margin-top:10px;
+	margin-bottom:10px;
+	background-color: #CDCDCD;
+	text-align: center;
+	width: 920px;
+	height: 20px;
+}
+.yanbar {
+	
+	overflow:hidden;
+	padding-left: 10px;
+	padding-top: 10px;
+	float: left;
+	height: 625px;
+	width: 200px;
+	background-color: #CDCDCD;
+}
+.orta {
+	overflow:scroll;
+	padding:10px;
+	background-color: #CDCDCD;
+	float: right;
+	height: 615px;
+	width: 669px;
+}
+.altbar {
+	text-align:center;
+	color:white;
+	padding:10px;
+	margin-top:10px;
+	background-color: black;
+	height: 80px;
+	width: 899px;
+}
+.uye {
+	margin-left:200px;
+	margin-right:100px;
+	text-align:center;
+	margin-bottom:10px;
+	padding:10px;
+	background-color:grey;
+	float: left;
+	height: 200px;
+	width: 170px;
+	border-radius:10px;
+}
+.arama {
+	background-color:green;
+	padding: 10px;
+	float: left;
+	height: 100px;
+	width: 170px;
+	border-radius:10px;
+}

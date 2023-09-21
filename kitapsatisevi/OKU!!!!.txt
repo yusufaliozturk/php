@@ -1,0 +1,4 @@
+veritabani kitapsatisevi2
+
+
+Veritabanı yoksa kendisi oluşturur...
